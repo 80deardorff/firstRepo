@@ -1,0 +1,19 @@
+img {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.image {
+  padding: 50px;
+  height: 1000px;
+  width: 1000px;
+}
+
+.text {
+  display: inline;
+  width: 150px;
+  color: green;
+  padding: 50px;
+  font-size: 2.0em;
+}
